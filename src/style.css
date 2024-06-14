@@ -1,0 +1,32 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+section {
+  padding: 20px;
+  border: 1px solid goldenrod;
+  border-radius: 10px;
+}
+
+section h1 {
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+pre {
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid green;
+  margin: 15px;
+}
+
+textarea {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.mermaid {
+  text-align: center;
+}
